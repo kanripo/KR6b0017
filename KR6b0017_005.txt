@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:54.590138
+#+DATE: 2015-08-30 19:33:55.610016
 #+TITLE: 頂生王因緣經
 #+PROPERTY: CBETA_ID T03n0165
 #+PROPERTY: ID KR6b0017
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 165
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6b0017_T_000-0393a>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0017_T_005-0402b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《佛說頂生王因緣經》卷第五¶
+《佛說頂生王因緣經》卷第五¶
 ¶
 西天譯經三藏朝奉大夫試光¶
 祿卿傳法大師賜紫沙門臣施護¶
@@ -170,7 +169,7 @@
 奔拏利迦花等，遍布其內；水鳥游戲出妙¶
 音聲，謂高遠聲、悅意聲、美妙聲等；池中蓮¶
 花大若車輪，花莖復大如車之軛，葉妙而廣¶
-同牛王領，其藕𦟛圓如士夫䏶，藕味最上其¶
+同牛王領，其藕[月*庸]圓如士夫[月*坒]，藕味最上其¶
 甘如乳。池之四面復有八千池沼，而悉嚴麗
 <pb:KR6b0017_T_005-0404a>¶
 池水充滿，亦有妙花遍布其內，水鳥游戲¶

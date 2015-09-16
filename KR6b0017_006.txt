@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:54.611566
+#+DATE: 2015-08-30 19:33:55.627779
 #+TITLE: 頂生王因緣經
 #+PROPERTY: CBETA_ID T03n0165
 #+PROPERTY: ID KR6b0017
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 165
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6b0017_T_000-0393a>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0017_T_006-0404b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《佛說頂生王因緣經》卷第六¶
+《佛說頂生王因緣經》卷第六¶
 ¶
 西天譯經三藏朝奉大夫試光¶
 祿卿傳法大師賜紫沙門臣施¶
@@ -167,8 +166,7 @@
 而悉出家脩四梵行；復有多人斷除欲貪生¶
 于梵世。」¶
 
-佛言：「大王！彼頂生王始自初居童子之位至¶
-太子位，及南贍部洲、東勝身洲、西牛貨洲、¶
+佛言：「大王！彼頂生王始自初居童子之位至太子位，及南贍部洲、東勝身洲、西牛貨洲、¶
 北俱盧洲，統輪王位；又於七金山住，乃至¶
 詣彼三十三天歷諸分位；於其中間總經一¶
 百一十有四帝釋謝滅。大王當知，帝釋壽量¶
