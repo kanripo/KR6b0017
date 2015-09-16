@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 頂生王因緣經
+#+DATE: 2015-08-30 19:33:54.842731
+#+PROPERTY: JUAN 0
