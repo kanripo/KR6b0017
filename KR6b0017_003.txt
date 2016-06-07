@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:54.551869
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:52
 #+TITLE: 頂生王因緣經
 #+PROPERTY: CBETA_ID T03n0165
 #+PROPERTY: ID KR6b0017
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 165
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6b0017_T_000-0393a>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0017_T_003-0398a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《佛說頂生王因緣經》卷第三¶
+《佛說頂生王因緣經》卷第三¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿傳¶
 法大師賜紫沙門臣施護等奉　詔譯¶
@@ -152,8 +151,7 @@
 有四梯陛，金、銀、瑠璃、頗胝迦成；彼池沼中有¶
 四寶臺，金、銀、瑠璃、頗胝迦等間錯莊嚴；若金¶
 為臺即銀為柱及以梁棟，若銀為臺即金為¶
-柱及以梁棟，若瑠璃為臺即頗胝迦為柱及¶
-以梁棟，若頗胝迦為臺即瑠璃為柱及以梁¶
+柱及以梁棟，若瑠璃為臺即頗胝迦為柱及以梁棟，若頗胝迦為臺即瑠璃為柱及以梁¶
 棟；清涼甘美水滿池中；優鉢羅華、鉢訥摩華、¶
 俱母陀華、奔拏利迦華等，遍覆其內。復有種¶
 種水鳥遊戲池中出妙音聲，謂高遠聲、悅意¶

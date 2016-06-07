@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:54.569299
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:52
 #+TITLE: 頂生王因緣經
 #+PROPERTY: CBETA_ID T03n0165
 #+PROPERTY: ID KR6b0017
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 165
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6b0017_T_000-0393a>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0017_T_004-0400b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《佛說頂生王因緣經》卷第四¶
+《佛說頂生王因緣經》卷第四¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿傳¶
 法大師賜紫沙門臣施護等奉　詔譯¶
